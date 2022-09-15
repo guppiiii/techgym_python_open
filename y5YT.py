@@ -16,3 +16,8 @@ elif my_hand == 1:
     print('負け')
   elif you_hand == 1:
     print('あいこ')
+else my_hand == 2:
+  if you_hand == 0:
+    print('勝ち')
+  elif you_hand == 1:
+    print('負け')
